@@ -1,0 +1,11 @@
+size(400,400);
+int x = 200; 
+int y = 180;
+int breedte = 50;
+int hoogte = 50;
+noFill();
+ellipse(x, y, breedte, hoogte);
+ellipse(x+50, y, breedte, hoogte);
+ellipse(x-50, y, breedte, hoogte);
+ellipse(x-20, y+30, breedte, hoogte);
+ellipse(x+20, y+30, breedte, hoogte);
