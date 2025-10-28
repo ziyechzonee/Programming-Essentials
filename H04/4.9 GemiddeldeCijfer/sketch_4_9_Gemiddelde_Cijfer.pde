@@ -1,0 +1,10 @@
+float cijfer1;
+cijfer1=6.7;
+float cijfer2;
+cijfer2=5.7;
+float cijfer3;
+cijfer3=7.4;
+println(cijfer1 + cijfer2 + cijfer3);
+float Aantal;
+Aantal = 19.8;
+println(Aantal/3);
